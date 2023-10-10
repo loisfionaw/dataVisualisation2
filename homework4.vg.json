@@ -226,7 +226,8 @@
 },
 "legend" :{
   "labelFont" : "sans-serif",
-  "labelFontSize" : 35
+  "labelFontSize" : 25,
+  "titleFontSize" : 35
 },
 "tooltipFormat": {"font" : "sans-esrif"}}
 }
