@@ -6,7 +6,7 @@
     "vconcat" : [
       {
         "width": "container",
-        "height": 400,
+        "height": 600,
         "title": "Fig 2. Rolled Out Vaccines per Capita",
         "projection": {"type": "mercator"},
         "layer": [
@@ -67,7 +67,7 @@
 ,
 "config" : {"title": {
   "font" : "sans-serif",
-  "fontSize" : 14
+  "fontSize" : 25
 }}
   }
   
