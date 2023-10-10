@@ -8,7 +8,7 @@
       "width": "container",
       "height": 50,
       "data": {
-        "values": [{"text": "Note: Fig 3. shows the daily confirmed COCID-19 cases at each states"}]
+        "values": [{"text": "Note: Fig . shows the daily confirmed COCID-19 cases at each states"}]
       },
       "mark": {"type": "text", "align": "right", "baseline": "middle"},
       "encoding": {"text": {"field": "text", "type": "nominal"}}
