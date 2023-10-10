@@ -72,8 +72,8 @@
 },
 "legend" :{
   "labelFont" : "sans-serif",
-  "labelFontSize" : 25,
-  "titleFontSize" : 35
+  "labelFontSize" : 20,
+  "titleFontSize" : 25
 },
 "tooltipFormat": {"font" : "sans-esrif"}}
 }
