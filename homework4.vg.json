@@ -215,13 +215,17 @@
     
 ,
 "config" : {"title": {
-  "font" : "sans-serif",
-  "fontSize" : 35
+"font" : "sans-serif",
+"fontSize" : 35
 }, "text": {
-  "font" : "sans-serif",
-  "fontSize" : 25
-}}
-  }
+"font" : "sans-serif",
+"fontSize" : 25
+},
+"mark": {
+  "tooltip": {"fontSize": 16}, 
+  "text": {"align": "right"}}}
+}
+
   
   
   
