@@ -62,6 +62,10 @@
             {"field": "state", "type": "nominal", "title": "State"}
           ]
           },
+          "config": {
+          "mark": {"tooltip": {"fontSize": 25}},
+          "text": {"fontSize": 14, "font": "sans-serif"}
+          },
           "selection": {
             "stateFilter": {
               "type": "multi",
@@ -130,7 +134,11 @@
                 {"field": "date", "type": "temporal", "title": "Date"},
                 {"field": "confirmed", "type": "quantitative", "title": "Confirmed cases"},
                 {"field": "state", "type": "nominal", "title": "State"}
-              ]            }      
+              ]            },
+              "config": {
+          "mark": {"tooltip": {"fontSize": 25}},
+          "text": {"fontSize": 14, "font": "sans-serif"}
+          }
         },
         {
           "width": "container",
@@ -187,7 +195,11 @@
               {"field": "date", "type": "temporal", "title": "Date"},
               {"field": "vaccines_cum", "type": "quantitative", "title": "Rolled out Vaccines to date"},
               {"field": "state", "type": "nominal", "title": "State"}
-            ]            }
+            ]            },
+            "config": {
+          "mark": {"tooltip": {"fontSize": 25}},
+          "text": {"fontSize": 14, "font": "sans-serif"}
+          }
           
           
        
