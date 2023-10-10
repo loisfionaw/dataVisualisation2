@@ -66,11 +66,18 @@
     ]
 ,
 "config" : {"title": {
-  "font" : "sans-serif",
-  "fontSize" :35
-}}
-  }
-  
-  
+"font" : "sans-serif",
+"fontSize" : 35
+}, "text": {
+"font" : "sans-serif",
+"fontSize" : 25
+},
+"legend" :{
+  "labelFont" : "sans-serif",
+  "labelFontSize" : 25,
+  "titleFontSize" : 35
+},
+"tooltipFormat": {"font" : "sans-esrif"}}
+}
   
   
