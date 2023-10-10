@@ -6,7 +6,7 @@
     "vconcat" : [
       {
         "width": "container",
-        "height": 400,
+        "height": 600,
         "title": "Fig 1. Confirmed COVID-19 Cases per Capita",
         "projection": {"type": "mercator"},
         "layer": [
@@ -65,7 +65,7 @@
 ,
 "config" : {"title": {
   "font" : "sans-serif",
-  "fontSize" : 14
+  "fontSize" : 35
 }}
   }
   
