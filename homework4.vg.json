@@ -205,8 +205,12 @@
 "config" : {"title": {
   "font" : "sans-serif",
   "fontSize" : 35
+}, "text": {
+  "font" : "sans-serif",
+  "fontSize" : 25
 }}
   }
+  
   
   
   
