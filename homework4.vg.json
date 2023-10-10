@@ -15,7 +15,7 @@
       },
       {
         "width": "container",
-        "height": 400,
+        "height": 600,
         "data" : {
           "url" : "covid_au.csv"
         },
@@ -87,7 +87,7 @@
           
           {
             "width": "container",
-            "height": 400,
+            "height": 600,
             "data": {
               "url": "covid_au.csv"
             },
@@ -144,7 +144,7 @@
         ,
         {
           "width": "container",
-          "height": 400,
+          "height": 600,
           "data": {
             "url": "covid_au.csv"
           },
@@ -204,7 +204,7 @@
 ,
 "config" : {"title": {
   "font" : "sans-serif",
-  "fontSize" : 14
+  "fontSize" : 35
 }}
   }
   
