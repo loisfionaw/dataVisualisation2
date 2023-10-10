@@ -60,7 +60,15 @@
             {"field": "date", "type": "temporal", "title": "Date"},
             {"field": "confirmed", "type": "quantitative", "title": "Confirmed Cases"},
             {"field": "state", "type": "nominal", "title": "State"}
-          ]
+          ], "encoding": {
+  "text": {
+    "field": "date",
+    "type": "temporal",
+    "title": "Date",
+    "fontSize": 14,
+    "align": "right"
+  }
+}
           },
           "config": {
           "mark": {"tooltip": {"fontSize": 25}},
